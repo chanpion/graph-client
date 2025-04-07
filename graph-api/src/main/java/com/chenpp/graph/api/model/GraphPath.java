@@ -1,8 +1,9 @@
 package com.chenpp.graph.api.model;
 
 /**
+ * 路径
  * @author April.Chen
- * @date 2023/10/11 4:29 下午
- **/
-public class GraphLabel {
+ * @date 2024/4/24 16:12
+ */
+public class GraphPath {
 }

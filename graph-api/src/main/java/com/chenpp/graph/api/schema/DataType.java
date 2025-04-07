@@ -2,6 +2,7 @@ package com.chenpp.graph.api.schema;
 
 /**
  * 属性的数据类型
+ *
  * @author April.Chen
  * @date 2023/10/11 4:44 下午
  **/
@@ -46,7 +47,9 @@ public enum DataType {
      * 时间（日期+时间）
      */
     Date,
-
+    /**
+     * 时间（日期+时间）
+     */
     Datetime,
 
     /**
